@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @k-katfish
+- You can find more on my website: <https://kkatfish.com/resume>
 - 🖥️ I am a Windows and Linux System Administrator, with experience in Microsoft Server Active Directory, Enterprise Linux server administration, and more.
 - 👀 I’m interested in CyberSecurity, Networking, Software Development, and all things computers!
 - 🌱 I’m currently learning a whole lot. I'm studying Computer Science with a concentration in Networks and CyberSecurity at Colorado State University. Right now that includes:
