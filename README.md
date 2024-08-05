@@ -1,10 +1,12 @@
+![Static Badge](https://img.shields.io/badge/certified-zombie_dispatcher-black)
+![Static Badge](https://img.shields.io/badge/Virtual_Fortress_Architect-blue)
+![Static Badge](https://img.shields.io/badge/Network_Necromancer-gray)
+
 - 👋 Hi, I’m @k-katfish
 - 🕸️ You can find more on my website: <https://kkatfish.com/resume>
-- 🖥️ I am a Windows and Linux System Administrator, with experience in Microsoft Server Active Directory, Enterprise Linux server administration, and more.
-- 👀 I’m interested in CyberSecurity, Networking, Linux, and all things computers!
-- 🌱 I’m currently learning about Cisco routers and Network Administration.
-- C#️⃣: I'm currently teaching myself C# as I write the next version of Push.
-- ⚒️ I’m currently working on:
-  - Push 3.0: A lovely tool for installing software on one, more, or many Windows computers in a Domain. You can utilize existing infrastructure of MDT to install (now or later) one (or more) pieces of software on one (or more) computers. Plus, use ScanHost to get a quick bunch of information about a remote computer, and FindUsers to quickly find who is currently logged in and where.
-- 📫 How to reach me: kyle.ketchell@proton.me .
-- 👨‍💻 I made a tool called Push, which can remotely install software on one, more, or many Windows computers in a Domain. The idea is that it will be a handy tool for IT admins who need to install software on many machines.
+- 🖨️ Trained in the ancient art of solving Paper Jams
+- 🖥️ Windows and Linux System Administrator
+- 🐧 I’m interested in CyberSecurity, Networking, Linux, and all things computers
+- 🧟‍♂️ Am qualified to remotely dispatch a zombie army from 1000 miles away
+- 🇦🇶 I operate thousands of systems across 4 continents and 8 timezones
+- 👨‍💻 I made a tool called Push, which can remotely install software on one, more, or many Windows computers in a domain. The idea is that it will be a handy tool for IT admins who need to install software on many machines
