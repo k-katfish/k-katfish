@@ -3,7 +3,7 @@
 ![Static Badge](https://img.shields.io/badge/Network_Necromancer-gray)
 
 - 👋 Hi, I’m @k-katfish
-- 🕸️ You can find more on my website: <https://kkatfish.com/resume>
+- 🕸️ You can find more on my website: <https://kkatfish.com/>
 - 🖨️ Trained in the ancient art of solving Paper Jams
 - 🖥️ Windows and Linux System Administrator
 - 🐧 I’m interested in CyberSecurity, Networking, Linux, and all things computers
